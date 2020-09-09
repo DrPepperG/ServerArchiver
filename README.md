@@ -7,3 +7,11 @@ Sure there is probally many better ways to do this but this is the one that ende
 Paths are configured at the top of the script with the desired file name and then desired folder paths, they are then converted into strings and then executed by bash.
 Backups are then saved into the supplied folder which by default is the backups folder in this script. There is also a backup expire configured in days by the var `daysToLive`,
 I haven't fully tested if the expire script works or not so we will see.
+
+# Installation
+Run `npm install`
+
+# Tested Environments
+**Ubuntu 18.04**
+
+**Node 12.18.3**
