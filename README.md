@@ -11,7 +11,7 @@ I haven't fully tested if the expire script works or not so we will see.
 # Installation
 Run `npm install`
 
-# Tested Environments
+# Tested Environment
 **Ubuntu 18.04**
 
 **Node 12.18.3**
