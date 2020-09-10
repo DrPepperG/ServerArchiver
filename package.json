@@ -1,14 +1,22 @@
 {
   "name": "serverarchiver",
   "version": "1.0.0",
-  "description": "",
+  "description": "Server archiver for linux",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrPepperG/ServerArchiver.git"
+  },
   "author": "Joseph Crain",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrPepperG/ServerArchiver/issues"
+  },
+  "homepage": "https://github.com/DrPepperG/ServerArchiver#readme",
   "dependencies": {
-    "tar-fs": "^2.1.0"
+    "node-cron": "^2.0.3"
   }
 }
